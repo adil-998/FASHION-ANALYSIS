@@ -22,7 +22,6 @@ This project analyzes and predicts fashion sales data using exploratory data ana
    - Split data into training and testing sets.
    - Built and trained predictive models including:
      - Random Forest Regressor
-     - Linear Regression
    - Evaluated models using metrics such as Mean Squared Error (MSE), Mean Absolute Error (MAE), and R-squared (R²).
 
 4. **Results**
