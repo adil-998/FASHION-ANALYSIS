@@ -51,4 +51,4 @@ This project analyzes and predicts fashion sales data using exploratory data ana
 
 ---
 
-*Created by MD Adil Ahmed Shareef*
+*MD Adil*
